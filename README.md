@@ -11,7 +11,7 @@ NEXTSETP 의 'TDD, 클린 코드 with Java' 과정 정리
 - 4단계 - 자동차 경주(우승자) : [코드리뷰](https://github.com/next-step/java-racingcar/pull/3341)
 - 5단계 - 자동차 경주(리팩토링) : [코드리뷰](https://github.com/next-step/java-racingcar/pull/3376)
 
-## 로또 - TDD
+## [로또 - TDD](https://github.com/next-step/java-lotto)
 - 1단계 - 문자열 덧셈 계산기 : [코드리뷰](https://github.com/next-step/java-lotto/pull/2329)
 - 2단계 - 로또(자동) : [코드리뷰](https://github.com/next-step/java-lotto/pull/2447)
 - 3단계 - 로또(2등) : [코드리뷰](https://github.com/next-step/java-lotto/pull/2473)
